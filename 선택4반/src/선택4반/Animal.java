@@ -17,6 +17,6 @@ public class Animal {
 	}
 	
 	void toPrint() {
-		System.out.println("이 동물은 " + name);
+		System.out.println("이 동물은 1 " + name);
 	}
 }
